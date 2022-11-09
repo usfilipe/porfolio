@@ -14,6 +14,8 @@
 
 .home__img {
   margin-bottom: 1.5rem;
+  height: 10rem;
+  width: 10rem;
 }
 
 .home__name {
@@ -36,7 +38,7 @@
 }
 
 .home__social-link:hover {
-  color: hsl(43, 100%, 68%);
+  color: hsl(230, 100%, 50%);;
 }
 
 .scroll__down {

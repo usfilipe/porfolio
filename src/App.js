@@ -6,8 +6,6 @@ import About from './components/about/About'
 import Skills from './components/skills/Skills'
 import Resume from './components/resume/Resume'
 import Portfolio from './components/portfolio/Portfolio'
-import Testimonials from './components/testimonials/Testimonials'
-import Blog from './components/blog/Blog'
 import Contact from './components/contact/Contact'
 
 const App = () => {
@@ -18,10 +16,7 @@ const App = () => {
         <Home />
         <About />
         <Skills />
-        <Resume />
         <Portfolio />
-        <Testimonials />
-        <Blog />
         <Contact />
       </main>
     </>

@@ -1,8 +1,8 @@
 import React from "react";
 import "./skills.css";
-import Image1 from "../../assets/service-1.svg";
-import Image2 from "../../assets/service-2.svg";
-import Image3 from "../../assets/service-3.svg";
+import Image1 from "../../assets/html-logo.png";
+import Image2 from "../../assets/css-logo.png";
+import Image3 from "../../assets/java-logo.png";
 
 const data = [
   {
@@ -10,21 +10,21 @@ const data = [
     image: Image1,
     title: "HTML",
     description:
-      "Lorem ipsum dolor sit amet consectetuer adipiscing elit         aenean commodo ligula eget.",
+      "It is used on the frontend and gives the structure to the webpage which you can style using CSS and make interactive using JavaScript.",
   },
   {
     id: 2,
     image: Image2,
     title: "CSS",
     description:
-      "Lorem ipsum dolor sit amet consectetuer adipiscing elit         aenean commodo ligula eget.",
+      "It is used to style the frontend of any website. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.",
   },
   {
     id: 3,
     image: Image3,
-    title: "JavaScript",
+    title: "JAVASCRIPT",
     description:
-      "Lorem ipsum dolor sit amet consectetuer adipiscing elit         aenean commodo ligula eget.",
+      "JavaScript allows you to add interactivity to pages. Common examples that you may have seen on the websites are sliders, click interactions, popups and so on.",
   },
   
 ];

@@ -23,12 +23,12 @@ const Portfolio = () => {
         <span className="work__item" onClick={() => filterItem("Creative")}>
           Creative
         </span>
-        <span className="work__item" onClick={() => filterItem("Art")}>
-          Art
+        <span className="work__item" onClick={() => filterItem("React")}>
+          React
         </span>
         
         <span className="work__item" onClick={() => filterItem("Comming Soon")}>
-          Comming Soon
+          Coming Soon
         </span>
       </div>
 
