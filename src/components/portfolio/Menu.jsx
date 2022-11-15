@@ -1,12 +1,14 @@
 import Work3 from "../../assets/work-3.svg";
+import Work1 from "../../assets/work-1.png";
 
 
 const Menu = [
   {
     id: 1,
-    image: Work3,
-    title: "Dashboard",
-    category: "Coming soon",
+    image: Work1,
+    title: "Advice Generator",
+    category: "HTML/CSS/Javascript/API",
+    link: "https://advice-generator-api-ten.vercel.app/"
   },
   {
     id: 2,
