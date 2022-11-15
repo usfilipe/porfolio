@@ -13,7 +13,7 @@ const HeaderSocials = () => {
 
 
       <a
-        href="https://www.linkedin.com/in/filipe-martins-5b465b223/"
+        href="https://www.linkedin.com/in/usfilipe/"
         className="home__social-link"
         target="_blank"
       >
